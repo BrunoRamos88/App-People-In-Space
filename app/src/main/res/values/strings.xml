@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">People In Space</string>
+    <string name="label_load">Carregar</string>
+</resources>
